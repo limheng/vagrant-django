@@ -33,8 +33,9 @@ This guide demonstrates how to quickly set up a virtualized Debian environment u
 2. Access Django website:
 
    Open a browser to http://localhost:8000/admin
-   username: admin
-   password: vagrant!
+
+   > username: admin
+   > password: vagrant!
 
 3. Access virtual machine:
    CTRL-C to gain access to terminal
